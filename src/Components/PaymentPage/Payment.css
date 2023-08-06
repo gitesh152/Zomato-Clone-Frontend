@@ -1,0 +1,68 @@
+/* ---------------------------------- Payment Page --------------------------------------------------- */
+
+.payment{
+    display: flex;
+    margin: auto;
+    margin-top: 5%;
+    width: 70%;
+    border: 1px solid black;
+}
+
+.paydiv{
+    height: 600px;
+    width: 70%;
+    
+}
+  
+#mypay{
+    margin-top: 2%;
+    margin-bottom: 9%;
+    font-size: 33px;
+}
+  
+  .paymentBox{
+    padding: 2% 4%;
+    width: 36%;
+    height: 530px;
+    text-align: center;
+    background-color: rgb(232, 245, 214); 
+  }
+  
+  #paymentBtn{
+    margin-top: 5%;
+    padding: 5%;
+    width: 64%;
+    margin: auto;
+    background-color: rgb(47, 92, 2);
+  }
+
+  .pricePage{
+    width: 64%;
+    background-color: rgb(47, 92, 2);
+  }
+  
+  .pricePage>p{
+    margin: 3%;
+    margin-top: 22%;
+    text-align: center;
+  }
+
+  .pricePage>h1{
+    margin: 3%;
+    margin-top: 2%;
+    font-size: 68px;
+    color: rgb(220, 250, 220);
+    text-align: center;
+  }
+
+  
+  /* ------------------------------- Payment Successful ------------------------------------------------ */
+  
+.paySuccess{
+    width: 60%;
+    margin: auto;
+    height: 500px;
+    margin-top: 5%;
+}
+  
+  
