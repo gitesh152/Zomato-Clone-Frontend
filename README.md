@@ -3,7 +3,7 @@
 <div align="center" >
   <a href="https://github.com/gitesh152/Zomato-Clone-Frontend">
     <img src="https://b.zmtcdn.com/images/logo/zomato_logo_2017.png" alt="Logo" width="80" height="80">
-    <h3 align="center">Sociout</h3>
+    <h3 align="center">Zomato</h3>
   </a>
 
   <p align="center">
