@@ -1,89 +1,199 @@
+<a name="readme-top"></a>
 
-<h1>Zomato Clone </h1>
-<h2> 1. Home Page </h2>
-<img src="https://user-images.githubusercontent.com/96073111/180670402-4b33d58c-fcb0-496c-a7b1-206b24a31d47.png" > </br></br>
+<div align="center" >
+  <a href="https://github.com/gitesh152/Zomato-Clone-Frontend">
+    <img src="https://res.cloudinary.com/dm34wmjlm/image/upload/v1691254039/Sociout%20NodeJS%20Img/img/sociout_kxy5al.png" alt="Logo" width="80" height="80">
+    <h3 align="center">Sociout</h3>
+  </a>
 
-<h2> 2. Collection Page </h2>
-<img src="https://user-images.githubusercontent.com/96073111/180670491-0a8eaaad-3111-43ac-92a6-e541d24ddc91.png" > </br></br>
+  <p align="center">
+    A food delivery application allowing users to checkout places for food.
+    <br />
+    <br />
+    <a target="_blank" href="https://zomato-clone-frontend.netlify.app/" >Live Preview</a>
+  </p>
+</div>
 
-<h2> 3. Filter Page </h2>
-<img src="https://user-images.githubusercontent.com/96073111/180670543-5a317088-95e5-4a66-8cf1-164814194671.png" > </br></br>
+<!-- TABLE OF CONTENTS -->
 
-<h2> 4. Food Page </h2>
-<img src="https://user-images.githubusercontent.com/96073111/180670696-6bbdd9df-d01c-4690-8576-e663c4a9feaa.png" > </br></br>
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <a href="#screenshots">Screenshots</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-<h2> 5. Restaurant Page </h2>
-<img src="https://user-images.githubusercontent.com/96073111/180670561-f90d8494-4407-40b5-b2c1-e1b98605c58a.png" > </br></br>
+<!-- ABOUT THE PROJECT -->
 
+## About The Project
 
+This is food delivery service where users can check places for dinner, dinner and nightout.
 
-# Getting Started with Create React App
+From swanky upscale restaurants to the cosiest hidden gems serving the most incredible food,
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Zomato covers it all. Explore menus, and millions of restaurant photos
+and reviews from users just like you, to find your next great meal.
 
-## Available Scripts
+In this app users can explore curated lists of top restaurants, cafes, pubs,
+and bars in a location, based on trends.
 
-In the project directory, you can run:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm start`
+## screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Home
+![Screenshot](https://res.cloudinary.com/dm34wmjlm/image/upload/v1691315948/Zomato-Frontend/SS/Zomato-Frontend-Home_gh6flz.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Restaurant
+![Screenshot](https://res.cloudinary.com/dm34wmjlm/image/upload/v1691315946/Zomato-Frontend/SS/Zomato-Frontend-Restaurant_eaoakl.png)
 
-### `npm test`
+Food
+![Screenshot](https://res.cloudinary.com/dm34wmjlm/image/upload/v1691315936/Zomato-Frontend/SS/Zomato-Frontend-Food_kndvlv.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Collection
+![Screenshot](https://res.cloudinary.com/dm34wmjlm/image/upload/v1691315933/Zomato-Frontend/SS/Zomato-Frontend-Collection_izpns8.png)
 
-### `npm run build`
+Filter
+![Screenshot](https://res.cloudinary.com/dm34wmjlm/image/upload/v1691315924/Zomato-Frontend/SS/Zomato-Frontend-Filter_ey77nq.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<ol>
+<li>ReactJS</li>
+<li>Axios</li>
+<li>MaterialUI</li>
+</ol>
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- GETTING STARTED -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Get started with setting up project in a environment.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+Install npm (node package manager)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+Get clone of git repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repo
+   ```sh
+   git clone https://github.com/gitesh152/Zomato-Clone-Frontend.git
+   ```
+2. Goto the project folder
+   ```sh
+   cd Zomato-Clone-Frontend
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start Project
+   ```js
+   npm start
+   ```
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- USAGE EXAMPLES -->
 
-### Making a Progressive Web App
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is a powerful demonstration of food delivery service,
+where users can check food and plcae for delivery, dinner and nightout.
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- ROADMAP -->
 
-### Deployment
+## Roadmap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [x] Frontend with ReactJS and MaterialUI
+- [ ] Add Login and Signup Feature
+- [ ] Add Payment Gateway
 
-### `npm run build` fails to minify
+See the [open issues](https://github.com/gitesh152/Zomato-Clone-Frontend/issues) for a full list of proposed features (and known issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Gitesh Kumar
+
+[@LinkedIn](https://www.linkedin.com/in/gitesh-kumar-an5h/) - https://www.linkedin.com/in/gitesh-kumar-an5h/
+
+[@Gmail](https://mail.google.com/mail/u/0/?fs=1&to=gitesh152@gmail.com&su=SUBJECT&body=BODY&tf=cm) - gitesh152@gmail.com/
+
+Project Link: [https://github.com/gitesh152/Zomato-Clone-Frontend](https://github.com/gitesh152/Zomato-Clone-Frontend)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+These are useful libraries and resources used in project
+
+<ol>
+<li>React Hooks</li>
+<li>...</li>
+</ol>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
