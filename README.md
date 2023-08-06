@@ -2,7 +2,7 @@
 
 <div align="center" >
   <a href="https://github.com/gitesh152/Zomato-Clone-Frontend">
-    <img src="https://res.cloudinary.com/dm34wmjlm/image/upload/v1691254039/Sociout%20NodeJS%20Img/img/sociout_kxy5al.png" alt="Logo" width="80" height="80">
+    <img src="https://b.zmtcdn.com/images/logo/zomato_logo_2017.png" alt="Logo" width="80" height="80">
     <h3 align="center">Sociout</h3>
   </a>
 
