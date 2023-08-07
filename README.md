@@ -11,6 +11,8 @@
     <br />
     <br />
     <a target="_blank" href="https://zomato-clone-frontend.netlify.app/" >Live Preview</a>
+    <br >
+    (wait 2 min for backend server to restart from sleep)
   </p>
 </div>
 
